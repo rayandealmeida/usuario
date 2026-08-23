@@ -81,3 +81,9 @@ Desenvolvedor Back-end Java
 Tecnologias principais:
 
 `Java` • `Spring Boot` • `Spring Data JPA` • `Spring Security` • `JWT` • `PostgreSQL`
+
+## Projeto completo
+
+A documentação geral e a arquitetura do sistema estão disponíveis no repositório:
+
+[Sistema Agendador de Tarefas](https://github.com/rayandealmeida/sistema-agendador-tarefas)
