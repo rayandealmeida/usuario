@@ -4,8 +4,6 @@ import com.rayan.usuario.business.UsuarioService;
 import com.rayan.usuario.business.dto.EnderecoDTO;
 import com.rayan.usuario.business.dto.TelefoneDTO;
 import com.rayan.usuario.business.dto.UsuarioDTO;
-import com.rayan.usuario.infrastructure.entify.Telefone;
-import com.rayan.usuario.infrastructure.entify.Usuario;
 import com.rayan.usuario.infrastructure.security.JwtUtil;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
